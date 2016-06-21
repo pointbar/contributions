@@ -1,6 +1,7 @@
 ---
 contributors: Pablo Pernot, Stéphane Langlois
 image_url: https://raw.githubusercontent.com/pointbar/contributions/master/medias/raid3-5.jpg
+description: "Stéphane et Pablo vous proposent : 'La scierie à pratiques' (et son côté rustique et tranchant). Anciennement 'agile adn', mais le devant notre envie à faire apparaître le côté dur de se réduire à une seule pratique nous avons opté pour : 'La scierie à pratiques'."
 ---
 
 
