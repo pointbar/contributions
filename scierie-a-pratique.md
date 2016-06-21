@@ -1,7 +1,7 @@
 ---
 contributors: Pablo Pernot, Stéphane Langlois
 image_url: 
-description:
+description: Stéphane et Pablo vous proposent : "La scierie à pratiques" (et son côté rustique et tranchant). Anciennement "agile adn", mais le devant notre envie à faire apparaître le côté dur de se réduire à une seule pratique nous avons opté pour : "La scierie à pratiques".
 ---
 ## Laissez les pratiques émerger
 
@@ -20,7 +20,6 @@ De fait l’atelier de la scierie à pratiques devient universel (dans le sens q
 Avec cette façon de faire tout devient un terrain de conversation intéressant qui au delà des pratiques va interroger les fondements d’une pensée, d’une approche, d’un métiers.
 
 ## Principe d’amélioration continue
-Scierie
 
 Désormais, selon les cadres, suite à une scierie à pratiques, je reviens sur la sélection des cinq ou six pratiques les plus importantes et je demande, à l’instar d’un perfection game des [Core Protocols](http://www.mccarthyshow.com/online/) de Jim McCarthy, que les participants me donnent un ressenti entre zéro et dix de la qualité de leur application concernant ces pratiques. Imaginez donc un groupe de journalistes qui vous dit que l’une de ses pratiques clefs c’est la remontée d’informations locales (très localisées). Vous lui demandez alors où est-ce qu’il se situe dans l’application de cette pratique. Il va répondre par exemple 6/10. La question suivante c’est naturellement de lui demander comment on pourrait faire pour passer de six à sept, ou de six à huit. C’est un exercice courant, non violent : faire mieux, et pragmatique, la cible reste atteignable, on augmente de un ou deux points. Et on cherche ainsi à s’améliorer sur les pratiques qui possèdent le plus d’importance à nos yeux.
 
