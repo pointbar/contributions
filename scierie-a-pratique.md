@@ -4,6 +4,7 @@ image_url: https://raw.githubusercontent.com/pointbar/contributions/master/media
 description: Stéphane et Pablo vous proposent : "La scierie à pratiques" (et son côté rustique et tranchant). Anciennement "agile adn", mais le devant notre envie à faire apparaître le côté dur de se réduire à une seule pratique nous avons opté pour : "La scierie à pratiques".
 ---
 
+
 ## Laissez les pratiques émerger
 
 C’est [Stéphane](https://twitter.com/langlois_s) qui avait rapidement proposé cette évolution, et avec le temps elle a montré sa pertinence. **L’important est de ne pas donner de liste de pratiques en amont** mais de demander aux participants de lister leurs pratiques (disons 12/16 pratiques). Tout simplement. Mais c’est drôlement efficace, tout en ouvrant l’approche à tous les domaines.
