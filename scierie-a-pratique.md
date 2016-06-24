@@ -1,7 +1,13 @@
 ---
-contributors: Pablo Pernot, Stéphane Langlois
-image_url: https://raw.githubusercontent.com/pointbar/contributions/master/medias/raid3-5.jpg
-description: "Stéphane et Pablo vous proposent : 'La scierie à pratiques' (et son côté rustique et tranchant). Anciennement 'agile adn', mais le devant notre envie à faire apparaître le côté dur de se réduire à une seule pratique nous avons opté pour : 'La scierie à pratiques'."
+contributors: 'Pablo Pernot, Stéphane Langlois'
+image_url: >-
+  https://raw.githubusercontent.com/pointbar/contributions/master/medias/raid3-5.jpg
+description: >-
+  Stéphane et Pablo vous proposent : 'La scierie à pratiques' (et son côté
+  rustique et tranchant). Anciennement 'agile adn', mais le devant notre envie à
+  faire apparaître le côté dur de se réduire à une seule pratique nous avons
+  opté pour : 'La scierie à pratiques'.
+published: true
 ---
 
 
@@ -9,9 +15,9 @@ description: "Stéphane et Pablo vous proposent : 'La scierie à pratiques' (et 
 
 C’est [Stéphane](https://twitter.com/langlois_s) qui avait rapidement proposé cette évolution, et avec le temps elle a montré sa pertinence. **L’important est de ne pas donner de liste de pratiques en amont** mais de demander aux participants de lister leurs pratiques (disons 12/16 pratiques). Tout simplement. Mais c’est drôlement efficace, tout en ouvrant l’approche à tous les domaines.
 
-Comment cela se déroule ? Au raid agile par exemple nous demandons aux participants d’écrire sur des post-its douze à seize pratiques qu’ils utilisent régulièrement, ou tout simplement qu’ils connaissent, dont ils ont entendus parler. Puis le jeu habituel reprend ses droits. Vous leur demander de réduire cette liste à six, et d’expliquer pourquoi ces six là sont les plus importantes. C’est tout l’intérêt de la scierie à pratiques, au délà des pratiques, c’est le fond des choses qui émerge : principes, valeurs, etc.
+Comment cela se déroule ? Au raid agile par exemple nous demandons aux participants d’écrire sur des post-its douze à seize pratiques qu’ils utilisent régulièrement, ou tout simplement qu’ils connaissent, dont ils ont entendus parler. Puis le jeu habituel reprend ses droits. Vous leur demandez de réduire cette liste à six, et d’expliquer pourquoi ces six là sont les plus importantes. C’est tout l’intérêt de la scierie à pratiques, au délà des pratiques, c’est le fond des choses qui émerge : principes, valeurs, etc.
 
-Enfin vous leur demander de réduire cette liste à deux éléments et d’expliquer à nouveau. Faire interagir les groupes est souvent aussi très stimulants : chacun explique et présente aux autres groupes.
+Enfin vous leur demandez de réduire cette liste à deux éléments et d’expliquer à nouveau. Faire interagir les groupes est souvent aussi très stimulants : chacun explique et présente aux autres groupes.
 
 Lors du raid agile nous nous sommes aussi servi de la scierie à pratiques pour instancier les éléments d’un atelier suivant sur [Agile Fluency](http://www.areyouagile.com/2015/06/chemin-dune-transformation-agile/) dont nous parlerons bientôt avec [Claudio](http://www.aubryconseil.com).
 
